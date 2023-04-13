@@ -1,0 +1,18 @@
+Speeds:
+ CAS(LO/HI) Mach
+ Mass Levels [kg]
+ Temperature:
+ ISA
+climb
+ - 170/170
+ 0.36
+ low
+ - 17042
+cruise - 205/205
+ 0.40
+ nominal - 20000
+ Max Alt. [ft]: 25000
+descent - 215/215
+ 0.40
+ high
+ - 22930
